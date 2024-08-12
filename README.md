@@ -18,5 +18,5 @@ Python 3.x (Download from https://www.python.org/downloads/)
 Open a terminal or command prompt and navigate to the project directory.
 Run the program with python pybicsolver.py.
 The program will prompt you for various operations
-Enter your desired word for each prompt.
-Once all words are provided, the program will display the completed Mad Libs story.
+Enter your desired number for each prompt.
+
