@@ -1,6 +1,6 @@
 pybicsolver: A Basic Arithmetic Calculator in Python**
 
-** By Ayaan.***
+###By Ayaan.
 
 pybicsolver is a straightforward Python program that functions as a basic arithmetic calculator. It allows you to perform essential calculations like addition, subtraction, multiplication, and division.
 
