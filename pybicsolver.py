@@ -6,7 +6,7 @@ print("This is basic calculator")
 #asking values 
 num1 = float(input("Enter first number: "))
 num2 = float(input("Enter second number: "))
-
+#asking operation
 print("Select operation:")
 print("1. Add")
 print("2. Subtract")
