@@ -3,7 +3,7 @@
 print("Welcome to simple calculator pybicsolver")
 print("This is basic calculator")
  
-
+#asking values 
 num1 = float(input("Enter first number: "))
 num2 = float(input("Enter second number: "))
 
