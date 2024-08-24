@@ -15,7 +15,7 @@ print("4. Divide")
 print("5.Reminder")
 
 #taking the operations value 
-choice = input("Enter choice (1/2/3/4): ")
+choice = input("Enter choice (1/2/3/4/5): ")
 
 
 
@@ -30,6 +30,8 @@ elif choice == '4':
         print("Error! Division by zero is not allowed")
     else:
        print(num1, "/", num2, "=", num1 / num2)
+elif choice == '5':
+    print(num1, "%", num2, "=", num1 % num2)
 else:
     print("Invalid input")
 print("thanks for using pybicsolver calculator .To use again, Run again")
