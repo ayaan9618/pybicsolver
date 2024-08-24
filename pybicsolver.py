@@ -5,7 +5,7 @@ print("This is basic calculator")
  
 #asking values 
 num1 = float(input("Enter first number: "))
-num2 = float(input("Enter second number: "))
+num2 = float(input("Enter Second number: "))
 #asking operation
 print("Select operation:")
 print("1. Add")
@@ -25,6 +25,7 @@ elif choice == '2':
 elif choice == '3':
     print(num1, "*", num2, "=", num1 * num2)
 elif choice == '4':
+ 
     print(num1, "/", num2, "=", num1 / num2)
 else:
     print("Invalid input")
