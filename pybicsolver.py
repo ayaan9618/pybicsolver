@@ -27,7 +27,8 @@ elif choice == '3':
 elif choice == '4':
     if num2==0:
         print("Error! Division by zero is not allowed")
-    print(num1, "/", num2, "=", num1 / num2)
+    else:
+       print(num1, "/", num2, "=", num1 / num2)
 else:
     print("Invalid input")
 print("thanks for using pybicsolver calculator .To use again, Run again")
