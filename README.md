@@ -10,7 +10,7 @@ Simple and User-Friendly: Designed for ease of use with clear instructions.
 Core Arithmetic Operations: Performs addition (+), subtraction (-), multiplication (*), and division (/).
 Numbers and Operators: Accepts numerical inputs and basic mathematical operators.
 
-**Requirements:**
+### Requirements:
 
 Python 3.x (Download from https://www.python.org/downloads/)
 
